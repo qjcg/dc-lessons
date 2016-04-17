@@ -1,1 +1,1 @@
-A repo containing all DataCarpentry lessons as git submodules.
+A repo containing DataCarpentry lessons as git submodules.
