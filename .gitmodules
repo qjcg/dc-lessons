@@ -1,0 +1,18 @@
+[submodule "python-ecology-lesson"]
+	path = python-ecology-lesson
+	url = git://github.com/datacarpentry/python-ecology-lesson
+[submodule "sql-ecology-lesson"]
+	path = sql-ecology-lesson
+	url = git://github.com/datacarpentry/sql-ecology-lesson
+[submodule "R-ecology-lesson"]
+	path = R-ecology-lesson
+	url = git://github.com/datacarpentry/R-ecology-lesson
+[submodule "spreadsheet-ecology-lesson"]
+	path = spreadsheet-ecology-lesson
+	url = git://github.com/datacarpentry/spreadsheet-ecology-lesson
+[submodule "openrefine-ecology-lesson"]
+	path = openrefine-ecology-lesson
+	url = git://github.com/datacarpentry/openrefine-ecology-lesson
+[submodule "python-neuroimaging-lesson"]
+	path = python-neuroimaging-lesson
+	url = git://github.com/datacarpentry/python-neuroimaging-lesson
